@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-            System.out.println("Hello GitHub"); // bunu bir de method yardımı ile yapacağız.
+            System.out.println("Hello GitHub"); // buna benzer bir selamlamayı method yardımıylada yapacağız.
 
     }
 }
